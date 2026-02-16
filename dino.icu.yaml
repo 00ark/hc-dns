@@ -715,7 +715,12 @@ suryaansh:
 - ttl: 600
   type: CNAME
   value: suryaanshah.github.io.
- 
+
+swc: # akreamer@protonmail.com
+  - ttl: 600
+    type: CNAME
+    value: swcccwebsite.github.io.
+
 tejas: # by tej
   ttl: 600
   type: CNAME
@@ -881,8 +886,3 @@ willgob: # williamnumismatics@gmail.com
   - ttl: 600
     type: CNAME
     value: cname.vercel-dns.com.
-
-swc:
-  - ttl: 600
-    type: CNAME
-    value: swcccwebsite.github.io.
